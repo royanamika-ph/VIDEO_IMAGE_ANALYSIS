@@ -1,0 +1,24 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite the following article."
+title: "Characterizing fluid dynamical systems using Euler characteristic surface and Euler metric"
+authors:
+  - family-names: "Roy"
+    given-names: "Anamika"
+    orcid: 'https://orcid.org/0000-0002-5724-4044'
+    
+version: "1.0.0"
+date-released: 2025-09-15
+doi: "https://doi.org/10.1063/5.0158179"   
+url: "https://github.com/royanamika-ph/VIDEO_IMAGE_ANALYSIS"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Roy"
+      given-names: "Anamika"
+  title: "Characterizing fluid dynamical systems using Euler characteristic surface and Euler metric"
+  journal: "Physics of Fluids"
+  year: 2023
+  volume: "35"
+  number: "8"
+  doi: "https://doi.org/10.1063/5.015817e"
