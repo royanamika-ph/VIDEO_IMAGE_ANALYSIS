@@ -83,4 +83,4 @@ Also see the [CITATION.cff](CITATION.cff) file for machine-readable citation.
 ---
 
 ##  License
-This project is released under the [MIT License](LICENSE).
+This project is released under the [GPL-3.0](LICENSE).
