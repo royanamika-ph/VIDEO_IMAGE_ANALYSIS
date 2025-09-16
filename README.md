@@ -22,7 +22,7 @@ Please see the [CITATION.cff](CITATION.cff) and [LICENSE](LICENSE) files for det
 Run the Python script with your image file. Adjust the threshold as required.
 
 ```bash
-python imageread1.py your_image.png
+python imageread1.py 
 ```
 
 This will generate `your_image.dat`.
