@@ -2,7 +2,7 @@
 
 This repository contains code that was partly used for image analysis, cluster labelling, and estimation of Euler number of droplet evaporation images in the following article:
 
-📄 Roy, A. (2023). *Droplet evaporation study*. AIP Publishing. https://doi.org/10.1063/5.0158179
+📄 Roy et al.(2023). *Characterizing fluid dynamical systems using Euler characteristic surface and Euler metric*,Physics of Fluids. https://doi.org/10.1063/5.0158179
 
 Please see the [CITATION.cff](CITATION.cff) and [LICENSE](LICENSE) files for details on citation and usage.
 
