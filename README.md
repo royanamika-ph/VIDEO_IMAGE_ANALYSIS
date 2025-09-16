@@ -76,7 +76,7 @@ Repeat until:
 ##  Citation
 If you use this code in your research, please cite:
 
-Roy, A. (2023). *Droplet evaporation study*. AIP Publishing. https://doi.org/10.1063/5.0158179  
+Roy, A. (2023). *Characterizing fluid dynamical systems using Euler characteristic surface and Euler metric*. https://doi.org/10.1063/5.0158179  
 
 Also see the [CITATION.cff](CITATION.cff) file for machine-readable citation.  
 
